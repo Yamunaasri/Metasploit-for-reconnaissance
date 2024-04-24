@@ -18,11 +18,10 @@ Open terminal and try execute some kali linux commands
 ## EXECUTION STEPS AND ITS OUTPUT:
 Find out the ip address of the attackers system
 
-## OUTPUT:
 ![image](https://github.com/Yamunaasri/Metasploit-for-reconnaissance/assets/115707860/d35e863c-0d73-4e4c-8b6a-198974027eb8)
 
 Invoke msfconsole
-## OUTPUT:
+
 ![image](https://github.com/Yamunaasri/Metasploit-for-reconnaissance/assets/115707860/0338e438-a2a1-4abb-b1c5-2ccc9c3e3bd2)
 
 Type help or a question mark "?" to see the list of all available commands you can use inside msfconsole.
